@@ -235,18 +235,18 @@ const funnyMoments = [
     people: "Semua anggota"
   },
   {
-    title: "Sandal Tertukar",
-    text: "Sandal siapa milik siapa sudah tidak penting lagi. Yang penting pulangnya ada yang nyeker.",
-    people: "Anggota 04, 07, 11"
+    title: "Abis makan dikejar anjing",
+    text: "lagi santai,ngobrol dengan perut kenyang bukan nya jalan pelan pelan malah lari dikejar anjing.",
+    people: "Clief,Okan,Leo,Frans"
   },
   {
-    title: "Masak Mie Kepagian",
-    text: "Kompor menyala jam 12 malam, mie selesai jam 1 pagi. Karena sambil masak malah main game dulu.",
-    people: "Anggota 02, 05, 09"
+    title: "Hp Rusak gara gara kecebur",
+    text: "jalan jalan ke mata air,yang harus nya happy malah sedih gara gara hp mati",
+    people: "Lisa"
   },
   {
-    title: "Foto Serius Gagal Total",
-    text: "Sudah posing serius, begitu dihitung mundur semua malah tertawa. Hasilnya? Justru jadi foto favorit.",
+    title: "Naik Mobil Pick up kondisi hujan",
+    text: "Lagi happy karena mau ke soputan,masalah utamanya adalah Hujan dengan mobil terbuka,Akhirnya ditutupin pake terpal",
     people: "Semua anggota"
   }
 ];
@@ -256,7 +256,7 @@ const timeline = [
   {
     day: "DAY 01",
     title: "First Meeting",
-    text: "Duduk rapi, senyum malu-malu, dan belum hafal nama. Semua masih jaim."
+    text: "Duduk rapi, senyum malu-malu,dan Semua masih jaim."
   },
   {
     day: "DAY 03",
@@ -289,28 +289,28 @@ const timeline = [
 const letters = [
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 01",
+    from: "",
     date: "Last Day",
     content: "Dulu aku takut tidak nyambung. Sekarang? Aku malah takut kehilangan kalian.",
-    signature: "Salam sayang"
+    signature: "Miss you guys"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 02",
+    from: "",
     date: "Last Day",
     content: "KKN cuma sebentar, tapi ketawa kita bisa bertahan lama.",
     signature: "Sampai jumpa"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 03",
+    from: "",
     date: "Last Day",
     content: "Aku tidak akan lupa malam-malam kita yang lebih banyak cerita daripada tidurnya.",
-    signature: "Salam rindu"
+    signature: "Happy"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 04",
+    from: "",
     date: "Last Day",
     content: "Terima kasih sudah jadi tempat pulang selama KKN.",
     signature: "Tetap bahagia"
@@ -318,62 +318,62 @@ const letters = [
   {
     to: "Untuk kalian",
     from: "Dari Anggota 05",
-    date: "Last Day",
-    content: "Kita datang sebagai orang asing. Pulangnya malah susah move on.",
-    signature: "Peluk dari jauh"
+    date: "",
+    content: "Kita datang sebagai orang asing. Pulangnya sebagai keluarga.",
+    signature: "Hugs"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 06",
+    from: "",
     date: "Last Day",
     content: "Semua makanan terasa lebih enak karena dimakan bareng-bareng.",
     signature: "Sampai ketemu lagi"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 07",
+    from: "",
     date: "Last Day",
     content: "Ada banyak cerita yang tidak sempat difoto. Tapi semuanya terekam di sini.",
     signature: "Jangan lupa aku"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 08",
+    from: "",
     date: "Last Day",
-    content: "Terima kasih sudah menerima aku apa adanya, termasuk jam tidurku yang aneh.",
+    content: "Terima kasih sudah menerima segala hal yang terjadi meskipun bikin kesel",
     signature: "Salam hangat"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 09",
+    from: "",
     date: "Last Day",
-    content: "Jika bisa mengulang, aku ingin KKN lebih lama. Tapi mungkin tidak kuat begadangnya.",
+    content: "Jika bisa mengulang, aku tetap pilih kalian. Tapi mungkin tidak kuat sama capeknya.",
     signature: "Hugs"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 10",
+    from: "",
     date: "Last Day",
     content: "Aku tidak tahu kapan kita bisa kumpul lagi. Tapi aku akan selalu simpan cerita ini.",
     signature: "Sampai jumpa"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 11",
+    from: "",
     date: "Last Day",
     content: "Terima kasih untuk tawa, lelah, dan semua hal konyol yang kita lakukan bersama.",
     signature: "Dari aku"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 12",
+    from: "",
     date: "Last Day",
     content: "Kalian adalah alasan kenapa KKN terasa singkat.",
     signature: "Selalu tersenyum"
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 13",
+    from: "",
     date: "Last Day",
     content: "Cerita ini mungkin selesai, tapi persahabatan kita tidak.",
     signature: "Sampai nanti"
