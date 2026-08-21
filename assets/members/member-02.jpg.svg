@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#f3e8d8"/>
+<circle cx="400" cy="360" r="150" fill="#fffaf0" opacity=".9"/>
+<circle cx="400" cy="330" r="85" fill="#d98e5a" opacity=".45"/>
+<path d="M170 800 Q400 570 630 800 L630 900 L170 900Z" fill="#a3b18a" opacity=".55"/>
+<text x="400" y="940" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" fill="#5c4433">Member 02</text>
+</svg>

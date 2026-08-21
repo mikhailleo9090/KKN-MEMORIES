@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KKN MEMORIES</title>
+  <meta name="description" content="Digital scrapbook kenangan KKN 13 orang." />
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Patrick+Hand&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#home">Lewati ke konten</a>
+
+  <!-- NAVBAR -->
+  <nav class="navbar" aria-label="Navigasi utama">
+    <a href="#home" class="nav-logo">KKN MEMORIES</a>
+    <button class="nav-toggle" id="navToggle" aria-label="Buka menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-menu" id="navMenu">
+      <li><a href="#home" class="nav-link">Home</a></li>
+      <li><a href="#story" class="nav-link">Our Story</a></li>
+      <li><a href="#people" class="nav-link">Our People</a></li>
+      <li><a href="#memories" class="nav-link">Memories</a></li>
+      <li><a href="#timeline" class="nav-link">Timeline</a></li>
+      <li><a href="#letters" class="nav-link">Letters</a></li>
+      <li><a href="#guestbook" class="nav-link">Guestbook</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO / OPENING -->
+  <header class="hero" id="home">
+    <div class="hero-deco hero-deco-1">✨</div>
+    <div class="hero-deco hero-deco-2">📎</div>
+    <div class="hero-deco hero-deco-3">📷</div>
+    <div class="hero-deco hero-deco-4">🧡</div>
+    
+    <div class="hero-content">
+      <p class="hero-handwritten">selamat datang di album kecil kami</p>
+      <h1 class="hero-title">KKN MEMORIES</h1>
+      <p class="hero-quote">"Kita datang sebagai orang asing, pulang sebagai keluarga yang tidak terlupakan."</p>
+      <p class="hero-sub">Satu perjalanan. 13 orang. Ribuan cerita yang tidak akan selesai hanya dalam satu halaman.</p>
+      <button class="btn btn-primary" id="openMemoriesBtn">Buka Kenangan</button>
+    </div>
+    
+    <!-- Polaroid decorative -->
+    <div class="hero-polaroid hero-polaroid-1" aria-hidden="true">
+      <div class="polaroid-small">
+        <div class="polaroid-photo-placeholder">📷</div>
+        <span>first day</span>
+      </div>
+    </div>
+    <div class="hero-polaroid hero-polaroid-2" aria-hidden="true">
+      <div class="polaroid-small">
+        <div class="polaroid-photo-placeholder">🍜</div>
+        <span>mie bareng</span>
+      </div>
+    </div>
+    <div class="hero-polaroid hero-polaroid-3" aria-hidden="true">
+      <div class="polaroid-small">
+        <div class="polaroid-photo-placeholder">🌅</div>
+        <span>last sunset</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- OUR STORY -->
+  <section class="section" id="story" aria-labelledby="storyTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="storyTitle">Our Story</h2>
+      <p class="section-sub">Dari canggung sampai susah disuruh pulang.</p>
+    </div>
+    <div class="story-grid">
+      <article class="story-card reveal">
+        <div class="sticky-note yellow">
+          <p>Awalnya cuma tahu nama. Lama-lama tahu kebiasaan.</p>
+        </div>
+        <div class="story-text">
+          <h3>Pertama Bertemu</h3>
+          <p>Semua duduk rapi, senyum malu-malu, masih pakai bahasa formal. Beberapa menit kemudian? Masih formal. Tapi sudah saling melirik.</p>
+        </div>
+      </article>
+      <article class="story-card reveal">
+        <div class="sticky-note pink">
+          <p>Meeting 10 menit jadi sesi curhat 2 jam.</p>
+        </div>
+        <div class="story-text">
+          <h3>Mulai Bercanda</h3>
+          <p>Rapat pertama berjalan normal. Rapat kedua mulai ada celetukan. Rapat ketiga sudah tidak tahu mana agenda, mana gosip.</p>
+        </div>
+      </article>
+      <article class="story-card reveal">
+        <div class="sticky-note green">
+          <p>Kerja bareng sambil makan bareng.</p>
+        </div>
+        <div class="story-text">
+          <h3>Bekerja Bersama</h3>
+          <p>Di balik semua program kerja, ada mie instan jam 11 malam, lembur mendadak, dan tawa yang tidak bisa ditahan.</p>
+        </div>
+      </article>
+      <article class="story-card reveal">
+        <div class="sticky-note blue">
+          <p>Sudah seperti keluarga, bukan tim.</p>
+        </div>
+        <div class="story-text">
+          <h3>Merasa Seperti Rumah</h3>
+          <p>Kami berangkat sebagai 13 orang asing. Lalu pulang sebagai 13 orang yang tahu isi lemari satu sama lain — dan tetap sayang.</p>
+        </div>
+      </article>
+    </div>
+    <p class="story-ending reveal">Sampai akhirnya KKN selesai. Tapi ceritanya tidak benar-benar selesai.</p>
+  </section>
+
+  <!-- OUR PEOPLE -->
+  <section class="section" id="people" aria-labelledby="peopleTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="peopleTitle">Our People</h2>
+      <p class="section-sub">13 kepala, ribuan cerita, satu WhatsApp group yang tidak pernah sepi.</p>
+    </div>
+    <div class="members-grid" id="membersGrid"></div>
+  </section>
+
+  <!-- MEMORIES / GALLERY -->
+  <section class="section" id="memories" aria-labelledby="memoriesTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="memoriesTitle">Memories</h2>
+      <p class="section-sub">Galeri kecil-kecilan dari momen yang tidak sengaja jadi kenangan.</p>
+    </div>
+    <div class="filter-container" id="filterContainer" role="group" aria-label="Filter kategori"></div>
+    <div class="memories-grid" id="memoriesGrid"></div>
+  </section>
+
+  <!-- FUNNY MOMENTS -->
+  <section class="section" id="funny" aria-labelledby="funnyTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="funnyTitle">Things We Probably Shouldn't Forget 😂</h2>
+      <p class="section-sub">Kejadian-kejadian kecil yang kalau diingat bikin senyum sendiri.</p>
+    </div>
+    <div class="funny-grid" id="funnyGrid"></div>
+  </section>
+
+  <!-- TIMELINE -->
+  <section class="section" id="timeline" aria-labelledby="timelineTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="timelineTitle">Timeline</h2>
+      <p class="section-sub">Perjalanan singkat yang terasa sangat panjang.</p>
+    </div>
+    <div class="timeline" id="timeline"></div>
+  </section>
+
+  <!-- LETTERS -->
+  <section class="section" id="letters" aria-labelledby="lettersTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="lettersTitle">Letters We Left Behind</h2>
+      <p class="section-sub">Surat kecil dari kita, untuk kita.</p>
+    </div>
+    <div class="letters-grid" id="lettersGrid"></div>
+  </section>
+
+  <!-- LOCATION -->
+  <section class="section" id="location" aria-labelledby="locationTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="locationTitle">Where Our Story Happened</h2>
+      <p class="section-sub">Tempat yang akan selalu punya cerita.</p>
+    </div>
+    <div class="location-card reveal">
+      <div class="location-info">
+        <h3 id="locationName">Desa Sukamaju</h3>
+        <p id="locationAddress">Kecamatan Sukamaju, Kabupaten Bahagia</p>
+        <p id="locationDate">Juni – Juli 2025</p>
+      </div>
+      <div class="map-wrapper">
+        <!-- GANTI GOOGLE MAPS EMBED DI SINI -->
+        <iframe
+          id="locationMap"
+          src="https://www.google.com/maps?q=-7.797068,110.370529&z=13&output=embed"
+          width="100%"
+          height="250"
+          style="border:0; border-radius: 12px;"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- COUNTDOWN / REUNION -->
+  <section class="section" id="countdown" aria-labelledby="countdownTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="countdownTitle">Until We Meet Again</h2>
+      <p class="section-sub">Kapan kita reunian? Hitung mundur dimulai.</p>
+    </div>
+    <div class="countdown" id="countdown">
+      <div class="countdown-item"><span id="days">00</span><small>Days</small></div>
+      <div class="countdown-item"><span id="hours">00</span><small>Hours</small></div>
+      <div class="countdown-item"><span id="minutes">00</span><small>Minutes</small></div>
+      <div class="countdown-item"><span id="seconds">00</span><small>Seconds</small></div>
+    </div>
+    <p class="countdown-message" id="countdownMessage"></p>
+  </section>
+
+  <!-- FINAL -->
+  <section class="final-section" id="final" aria-labelledby="finalTitle">
+    <h2 class="final-title" id="finalTitle">KKN mungkin sudah selesai.</h2>
+    <p class="final-text">Tapi beberapa orang yang kita temui di perjalanan, ternyata menjadi bagian dari cerita yang ingin kita simpan selamanya.</p>
+    <p class="final-highlight">13 people. 1 journey. Countless memories.</p>
+    <button class="btn btn-primary" id="backToTop">Back to the Beginning</button>
+  </section>
+
+  <!-- GUESTBOOK -->
+  <section class="section" id="guestbook" aria-labelledby="guestbookTitle">
+    <div class="section-head">
+      <h2 class="section-title" id="guestbookTitle">Guestbook</h2>
+      <p class="section-sub">Tinggalkan pesan untuk kenangan ini.</p>
+    </div>
+    <form class="guestbook-form" id="guestbookForm">
+      <div class="form-row">
+        <input type="text" id="guestName" placeholder="Nama kamu" required aria-label="Nama kamu" />
+        <input type="text" id="guestEmoji" placeholder="Emoji (misal ✨)" maxlength="4" aria-label="Emoji" />
+      </div>
+      <textarea id="guestMessage" placeholder="Tulis pesan singkat..." required aria-label="Pesan"></textarea>
+      <button type="submit" class="btn btn-secondary">Tempel di Scrapbook</button>
+    </form>
+    <div class="guestbook-board" id="guestbookBoard"></div>
+  </section>
+
+  <!-- MUSIC PLAYER -->
+  <div class="music-player" id="musicPlayer" role="region" aria-label="Music player">
+    <div class="music-toggle" id="musicToggle" tabindex="0" role="button" aria-label="Play Our Song">
+      <i class="fa-solid fa-play" id="musicIcon"></i>
+    </div>
+    <div class="music-info">
+      <p class="music-title" id="musicTitle">Lagu KKN Kita</p>
+      <div class="music-progress" id="musicProgress" aria-hidden="true"><span id="musicProgressBar"></span></div>
+    </div>
+    <div class="music-volume">
+      <i class="fa-solid fa-volume-low" aria-hidden="true"></i>
+      <input type="range" id="volumeSlider" min="0" max="1" step="0.1" value="0.7" aria-label="Volume" />
+    </div>
+  </div>
+
+  <!-- MODALS -->
+  <div class="modal" id="memberModal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-card member-modal-card">
+      <button class="modal-close" data-close-modal aria-label="Tutup detail anggota">&times;</button>
+      <div class="modal-photo" id="modalMemberPhoto">
+        <img src="" alt="" id="modalMemberImg" onerror="this.style.display='none'; this.parentElement.classList.add('img-missing');" />
+        <span class="member-initials" id="modalMemberInitials"></span>
+      </div>
+      <div class="modal-body">
+        <h3 id="modalMemberName"></h3>
+        <p class="modal-nickname" id="modalMemberNickname"></p>
+        <p class="modal-role" id="modalMemberRole"></p>
+        <p class="modal-description" id="modalMemberDescription"></p>
+        <blockquote class="modal-quote" id="modalMemberQuote"></blockquote>
+        <a href="#" class="modal-instagram" id="modalMemberInstagram" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="letterModal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-close-letter></div>
+    <div class="modal-card letter-modal-card paper-texture">
+      <button class="modal-close" data-close-letter aria-label="Tutup surat">&times;</button>
+      <h3 id="letterModalTo"></h3>
+      <p class="letter-date" id="letterModalDate"></p>
+      <div class="letter-content" id="letterModalContent"></div>
+      <p class="letter-signature" id="letterModalSignature"></p>
+    </div>
+  </div>
+
+  <!-- LIGHTBOX -->
+  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-modal="true">
+    <button class="lightbox-close" id="lightboxClose" aria-label="Tutup foto">&times;</button>
+    <button class="lightbox-nav prev" id="lightboxPrev" aria-label="Foto sebelumnya"><i class="fa-solid fa-chevron-left"></i></button>
+    <img src="" alt="" id="lightboxImage" class="lightbox-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22600%22 height=%22400%22><rect width=%22100%25%22 height=%22100%25%22 fill=%22%23f0e7d8%22/><text x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2220%22 fill=%22%23997b5c%22>Foto belum tersedia</text></svg>';" />
+    <div class="lightbox-caption">
+      <p id="lightboxCaption"></p>
+      <time id="lightboxDate"></time>
+    </div>
+    <button class="lightbox-nav next" id="lightboxNext" aria-label="Foto berikutnya"><i class="fa-solid fa-chevron-right"></i></button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
