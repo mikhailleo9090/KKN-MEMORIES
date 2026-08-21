@@ -36,7 +36,7 @@ const members = [
     name: "Yehezkiel Temorubun",
     nickname: "Okan",
     photo: "assets/members/member-01.jpg.svg",
-    role: "Anggota",
+    role: "Koordinator",
     quote: "Quote singkat anggota 01.",
     description: "Cerita singkat tentang anggota 01. Bisa diisi nanti.",
     instagram: "https://instagram.com/username01"
@@ -45,7 +45,7 @@ const members = [
     name: "Meigita E. Kawulur",
     nickname: "Gita",
     photo: "assets/members/member-02.jpg.svg",
-    role: "Anggota",
+    role: "Bendahara",
     quote: "Quote singkat anggota 02.",
     description: "Cerita singkat tentang anggota 02. Bisa diisi nanti.",
     instagram: "https://instagram.com/username02"
@@ -54,7 +54,7 @@ const members = [
     name: "Estevania I. Tengker",
     nickname: "Intan",
     photo: "assets/members/member-03.jpg.svg",
-    role: "Anggota",
+    role: "Sekretaris",
     quote: "Quote singkat anggota 03.",
     description: "Cerita singkat tentang anggota 03. Bisa diisi nanti.",
     instagram: "https://instagram.com/username03"
@@ -63,7 +63,7 @@ const members = [
     name: "Walanda Raintama",
     nickname: "Wals",
     photo: "assets/members/member-04.jpg.svg",
-    role: "Anggota",
+    role: "Humas",
     quote: "Quote singkat anggota 04.",
     description: "Cerita singkat tentang anggota 04. Bisa diisi nanti.",
     instagram: "https://instagram.com/username04"
@@ -72,7 +72,7 @@ const members = [
     name: "Wasti K. Rapar",
     nickname: "Wasti",
     photo: "assets/members/member-05.jpg.svg",
-    role: "Anggota",
+    role: "Humas",
     quote: "Quote singkat anggota 05.",
     description: "Cerita singkat tentang anggota 05. Bisa diisi nanti.",
     instagram: "https://instagram.com/username05"
@@ -81,7 +81,7 @@ const members = [
     name: "Anastasia G. Bakker",
     nickname: "Tasya",
     photo: "assets/members/member-06.jpg.svg",
-    role: "Anggota",
+    role: "Humas",
     quote: "Quote singkat anggota 06.",
     description: "Cerita singkat tentang anggota 06. Bisa diisi nanti.",
     instagram: "https://instagram.com/username06"
@@ -90,7 +90,7 @@ const members = [
     name: "Mikhail Andrew Leo",
     nickname: "Leo",
     photo: "assets/members/member-07.jpg.svg",
-    role: "Anggota",
+    role: "PDD",
     quote: "Quote singkat anggota 07.",
     description: "Cerita singkat tentang anggota 07. Bisa diisi nanti.",
     instagram: "https://instagram.com/username07"
@@ -99,7 +99,7 @@ const members = [
     name: "Melissa L. Merentek",
     nickname: "Lisa",
     photo: "assets/members/member-08.jpg.svg",
-    role: "Anggota",
+    role: "PDD",
     quote: "Quote singkat anggota 08.",
     description: "Cerita singkat tentang anggota 08. Bisa diisi nanti.",
     instagram: "https://instagram.com/username08"
@@ -108,7 +108,7 @@ const members = [
     name: "Michaela F.J. Lendo",
     nickname: "Mika",
     photo: "assets/members/member-09.jpg.svg",
-    role: "Anggota",
+    role: "PDD",
     quote: "Quote singkat anggota 09.",
     description: "Cerita singkat tentang anggota 09. Bisa diisi nanti.",
     instagram: "https://instagram.com/username09"
@@ -117,7 +117,7 @@ const members = [
     name: "Leonard C. Waas",
     nickname: "Clief",
     photo: "assets/members/member-10.jpg.svg",
-    role: "Anggota",
+    role: "Perlengkapan",
     quote: "Quote singkat anggota 10.",
     description: "Cerita singkat tentang anggota 10. Bisa diisi nanti.",
     instagram: "https://instagram.com/username10"
@@ -126,7 +126,7 @@ const members = [
     name: "Tesalonika L.T. Laoh",
     nickname: "Tesa",
     photo: "assets/members/member-11.jpg.svg",
-    role: "Anggota",
+    role: "Acara",
     quote: "Quote singkat anggota 11.",
     description: "Cerita singkat tentang anggota 11. Bisa diisi nanti.",
     instagram: "https://instagram.com/username11"
@@ -135,7 +135,7 @@ const members = [
     name: "Francois Y. Robo",
     nickname: "Frans",
     photo: "assets/members/member-12.jpg.svg",
-    role: "Anggota",
+    role: "Perlengkapan",
     quote: "Quote singkat anggota 12.",
     description: "Cerita singkat tentang anggota 12. Bisa diisi nanti.",
     instagram: "https://instagram.com/username12"
@@ -144,7 +144,7 @@ const members = [
     name: "Adelheit Rumondor",
     nickname: "Adel",
     photo: "assets/members/member-13.jpg.svg",
-    role: "Anggota",
+    role: "Acara",
     quote: "Quote singkat anggota 13.",
     description: "Cerita singkat tentang anggota 13. Bisa diisi nanti.",
     instagram: "https://instagram.com/username13"
