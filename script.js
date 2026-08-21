@@ -33,8 +33,8 @@ const siteData = {
 /* ========== DATA 13 ANGGOTA ========== */
 const members = [
   {
-    name: "Nama Anggota 01",
-    nickname: "Nickname 01",
+    name: "Yehezkiel Temorubun",
+    nickname: "Okan",
     photo: "assets/members/member-01.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 01.",
@@ -42,8 +42,8 @@ const members = [
     instagram: "https://instagram.com/username01"
   },
   {
-    name: "Nama Anggota 02",
-    nickname: "Nickname 02",
+    name: "Meigita E. Kawulur",
+    nickname: "Gita",
     photo: "assets/members/member-02.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 02.",
@@ -51,8 +51,8 @@ const members = [
     instagram: "https://instagram.com/username02"
   },
   {
-    name: "Nama Anggota 03",
-    nickname: "Nickname 03",
+    name: "Estevania I. Tengker",
+    nickname: "Intan",
     photo: "assets/members/member-03.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 03.",
@@ -60,8 +60,8 @@ const members = [
     instagram: "https://instagram.com/username03"
   },
   {
-    name: "Nama Anggota 04",
-    nickname: "Nickname 04",
+    name: "Walanda Raintama",
+    nickname: "Wals",
     photo: "assets/members/member-04.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 04.",
@@ -69,8 +69,8 @@ const members = [
     instagram: "https://instagram.com/username04"
   },
   {
-    name: "Nama Anggota 05",
-    nickname: "Nickname 05",
+    name: "Wasti K. Rapar",
+    nickname: "Wasti",
     photo: "assets/members/member-05.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 05.",
@@ -78,8 +78,8 @@ const members = [
     instagram: "https://instagram.com/username05"
   },
   {
-    name: "Nama Anggota 06",
-    nickname: "Nickname 06",
+    name: "Anastasia G. Bakker",
+    nickname: "Tasya",
     photo: "assets/members/member-06.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 06.",
@@ -87,8 +87,8 @@ const members = [
     instagram: "https://instagram.com/username06"
   },
   {
-    name: "Nama Anggota 07",
-    nickname: "Nickname 07",
+    name: "Mikhail Andrew Leo",
+    nickname: "Leo",
     photo: "assets/members/member-07.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 07.",
@@ -96,8 +96,8 @@ const members = [
     instagram: "https://instagram.com/username07"
   },
   {
-    name: "Nama Anggota 08",
-    nickname: "Nickname 08",
+    name: "Melissa L. Merentek",
+    nickname: "Lisa",
     photo: "assets/members/member-08.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 08.",
@@ -105,8 +105,8 @@ const members = [
     instagram: "https://instagram.com/username08"
   },
   {
-    name: "Nama Anggota 09",
-    nickname: "Nickname 09",
+    name: "Michaela F.J. Lendo",
+    nickname: "Mika",
     photo: "assets/members/member-09.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 09.",
@@ -114,8 +114,8 @@ const members = [
     instagram: "https://instagram.com/username09"
   },
   {
-    name: "Nama Anggota 10",
-    nickname: "Nickname 10",
+    name: "Leonard C. Waas",
+    nickname: "Clief",
     photo: "assets/members/member-10.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 10.",
@@ -123,8 +123,8 @@ const members = [
     instagram: "https://instagram.com/username10"
   },
   {
-    name: "Nama Anggota 11",
-    nickname: "Nickname 11",
+    name: "Tesalonika L.T. Laoh",
+    nickname: "Tesa",
     photo: "assets/members/member-11.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 11.",
@@ -132,8 +132,8 @@ const members = [
     instagram: "https://instagram.com/username11"
   },
   {
-    name: "Nama Anggota 12",
-    nickname: "Nickname 12",
+    name: "Francois Y. Robo",
+    nickname: "Frans",
     photo: "assets/members/member-12.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 12.",
@@ -141,8 +141,8 @@ const members = [
     instagram: "https://instagram.com/username12"
   },
   {
-    name: "Nama Anggota 13",
-    nickname: "Nickname 13",
+    name: "Adelheit Rumondor",
+    nickname: "Adel",
     photo: "assets/members/member-13.jpg.svg",
     role: "Anggota",
     quote: "Quote singkat anggota 13.",
