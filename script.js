@@ -317,7 +317,7 @@ const letters = [
   },
   {
     to: "Untuk kalian",
-    from: "Dari Anggota 05",
+    from: "",
     date: "",
     content: "Kita datang sebagai orang asing. Pulangnya sebagai keluarga.",
     signature: "Hugs"
